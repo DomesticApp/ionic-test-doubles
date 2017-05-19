@@ -4,6 +4,8 @@
   "description": "A simply Ionic Framework unit test doubles library and utilities",
   "main": "./build/index.js",
   "scripts": {
+    "prepublishOnly": "npm run build",
+    "prebuild": "npm run clean",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
     "clean": "rm -fr dist"
