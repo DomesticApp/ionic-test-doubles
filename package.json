@@ -1,0 +1,30 @@
+{
+  "name": "ionic-test-doubles",
+  "version": "0.0.1",
+  "description": "A simply Ionic Framework unit test doubles library and utilities",
+  "main": "./build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "clean": "rm -fr dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DomesticApp/ionic-test-doubles.git"
+  },
+  "keywords": [
+    "stub",
+    "mock",
+    "dummy",
+    "testBed"
+  ],
+  "author": "DomesticApp Dev Team <development@domesticapp.com>",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DomesticApp/ionic-test-doubles/issues"
+  },
+  "homepage": "https://github.com/DomesticApp/ionic-test-doubles#readme",
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
+}
