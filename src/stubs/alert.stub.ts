@@ -34,4 +34,8 @@ export class AlertStub {
 	present(navOptions : any = {}) : Promise<any> {
 		return Promise.resolve({});
 	}
+
+	dismiss (role = '') : Promise<any> {
+		return Promise.resolve ({});
+	}
 }
