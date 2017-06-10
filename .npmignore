@@ -1,4 +1,4 @@
-./src
 !./dist
+src
 tsconfig.json
 tslint.json
