@@ -28,6 +28,10 @@ export class PlatformStub {
 		};
 	}
 
+	public getQueryParam () : any {
+		return true;
+	}
+
 	public onResize (callback : any) {
 		return callback;
 	}
