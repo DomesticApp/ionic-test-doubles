@@ -1,6 +1,6 @@
 {
   "name": "ionic-test-doubles",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "A simply Ionic Framework unit test doubles library and utilities",
   "main": "./dist/index.js",
   "scripts": {
