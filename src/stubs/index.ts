@@ -7,3 +7,4 @@ export { NavControllerStub }   from './nav-controller.stub';
 export { PlatformStub }        from './platform.stub';
 export { ToastControllerStub } from './toast-controller.stub';
 export { ToastStub }           from './toast.stub';
+export { StatusBarStub }       from './status-bar.stub';
