@@ -1,5 +1,5 @@
 export class StatusBarStub {
-	styleDefault() {
+	public styleDefault() {
 		return;
 	}
 }
