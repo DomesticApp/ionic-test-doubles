@@ -11,3 +11,4 @@ export { StatusBarStub }       from './status-bar.stub';
 export { SplashScreenStub }    from './splash-screen.stub';
 export { ModalControllerStub } from './modal-controller.stub';
 export { ModalStub }           from './modal.stub';
+export { ViewControllerStub }  from './view-controller.stub';
