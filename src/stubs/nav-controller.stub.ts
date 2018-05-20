@@ -104,4 +104,8 @@ export class NavControllerStub {
 	public resize () : void {
 		return;
 	}
+
+	public goToRoot () : void {
+		return;
+	}
 }
