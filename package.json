@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/DomesticApp/ionic-test-doubles#readme",
   "devDependencies": {
+    "tslint": "^5.10.0",
     "typescript": "^2.3.2"
   }
 }
