@@ -101,6 +101,10 @@ export class NavControllerStub {
 		return;
 	}
 
+	public unregisterChildNav (nav : any) : void {
+		return;
+	}
+
 	public resize () : void {
 		return;
 	}
